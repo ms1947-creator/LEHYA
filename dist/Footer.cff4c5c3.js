@@ -610,7 +610,7 @@ var parcelHelpers = require("@parcel/transformer-js/src/esmodule-helpers.js");
 parcelHelpers.defineInteropFlag(exports);
 var _jsxDevRuntime = require("react/jsx-dev-runtime");
 var _reactRouterDom = require("react-router-dom");
-var _logoSvg = require("../images/logo.svg");
+var _logoSvg = require("../images/logo.png");
 var _logoSvgDefault = parcelHelpers.interopDefault(_logoSvg);
 function Footer() {
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("div", {
@@ -899,7 +899,7 @@ $RefreshReg$(_c, "Footer");
   window.$RefreshReg$ = prevRefreshReg;
   window.$RefreshSig$ = prevRefreshSig;
 }
-},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../images/logo.svg":"6OHUE","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"6OHUE":[function(require,module,exports) {
+},{"react/jsx-dev-runtime":"iTorj","react-router-dom":"9xmpe","../images/logo.png":"6OHUE","@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3","@parcel/transformer-react-refresh-wrap/lib/helpers/helpers.js":"km3Ru"}],"6OHUE":[function(require,module,exports) {
 module.exports = require("e2764f6f0bf30c1").getBundleURL("2e5tg") + "logo.cd13699a.svg" + "?" + Date.now();
 
 },{"e2764f6f0bf30c1":"lgJ39"}]},["6MJgn","1xC6H"], null, "parcelRequirece0d")

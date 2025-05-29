@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import LOGO from "../images/logo.svg";
+import LOGO from "../images/logo.png";
 import { Link } from "react-router-dom";
 import { Search, BadgePercent, LifeBuoy, ShoppingBag } from "lucide-react";
 import { FaRegUser } from "react-icons/fa6";
